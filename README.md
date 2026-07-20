@@ -2,7 +2,7 @@
 
 A Student Management System backend built with **NestJS**, **PostgreSQL**, **TypeORM**, and **JWT Authentication**. The project provides secure REST APIs for managing students, users, courses, and departments with role-based access control.
 
----
+
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@ A Student Management System backend built with **NestJS**, **PostgreSQL**, **Typ
 - Modular Architecture
 - Swagger API Documentation
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +33,7 @@ A Student Management System backend built with **NestJS**, **PostgreSQL**, **Typ
 - Swagger
 - Node.js
 
----
+
 
 ## 📂 Project Structure
 
@@ -72,7 +72,7 @@ src/
 └── main.ts
 ```
 
----
+
 
 ## 📌 CRUD Operations
 
@@ -105,7 +105,7 @@ src/
 - Update Department
 - Delete Department
 
----
+
 
 ## 📡 API Endpoints
 
@@ -119,7 +119,7 @@ src/
 | PATCH | `/students/:id` | Update Student |
 | DELETE | `/students/:id` | Delete Student |
 
----
+
 
 ## ⚙️ Installation
 
@@ -159,7 +159,7 @@ Run the project
 npm run start:dev
 ```
 
----
+
 
 ## 📚 Available Scripts
 
@@ -171,7 +171,7 @@ npm run test
 npm run lint
 ```
 
----
+
 
 ## 👥 Team Collaboration
 
@@ -184,7 +184,7 @@ npm run lint
 | `feature/course-department` | Course & Department Management |
 | `feature/dashboard` | Dashboard, Testing & Documentation |
 
----
+
 
 ## 🔄 Git Workflow
 
@@ -196,7 +196,7 @@ npm run lint
 6. After review, merge into `develop`.
 7. Merge `develop` into `main` for releases.
 
----
+
 
 ## 📖 API Documentation
 
@@ -206,19 +206,19 @@ Swagger documentation will be available at:
 http://localhost:3000/api
 ```
 
----
+
 
 ## 📄 License
 
 This project is licensed under the Apache-2.0 License.
 
----
+
 
 ## 👨‍💻 Contributors
 
 - S. M. A. Rob
 - 
 
----
+
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
